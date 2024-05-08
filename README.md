@@ -16,12 +16,12 @@ Processor: Intel Core i7
 
 Each available account represents a test suite.
 
-standard_user
-locked_out_user
-problem_user
-performance_glitch_user
-error_user
-visual_user
+standard_user  
+locked_out_user  
+problem_user  
+performance_glitch_user  
+error_user  
+visual_user  
 
 Password for all accounts: secret_sauce
 
