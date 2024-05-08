@@ -6,11 +6,11 @@ The objective is to determine if the ordering process functions consistently acr
 
 # Test environment
 
-Test automation tool: Robot Framework
-Browser: Google Chrome
-OS: Xubuntu
-Hardware: Lenovo Thinkpad X1 Carbon
-Processor: Intel Core i7
+Test automation tool: Robot Framework  
+Browser: Google Chrome  
+OS: Xubuntu  
+Hardware: Lenovo Thinkpad X1 Carbon  
+Processor: Intel Core i7  
 
 # Test suites
 
