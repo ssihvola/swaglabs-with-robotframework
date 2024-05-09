@@ -2,7 +2,7 @@
 
 The subject of testing was a test e-commerce website located at https://www.saucedemo.com/. It is possible to log in with six different accounts, each of which has certain faults and behaviors. 
 
-The objective is to determine if the ordering process functions consistently across all accounts. The goal is achieved through the use of E2E testing methodology.
+The objective was to determine if the ordering process functions consistently across all accounts. The goal was achieved through the use of E2E testing methodology.
 
 # Test Environment
 
@@ -14,7 +14,7 @@ Processor: Intel Core i7
 
 # Test Suites
 
-Each available account represents a test suite.
+Each available account represented a test suite.
 
 standard_user  
 locked_out_user  
